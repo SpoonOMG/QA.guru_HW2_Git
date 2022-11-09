@@ -1,5 +1,5 @@
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("Hellom GIT");
+        System.out.println("Lets conflict them");
     }
 }
